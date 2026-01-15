@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "coinmod:block/mesa_cambio_bottom",
+    "up": "coinmod:block/mesa_cambio_top",
+    "north": "coinmod:block/mesa_cambio_front",
+    "south": "coinmod:block/mesa_cambio_back",
+    "west": "coinmod:block/mesa_cambio_left",
+    "east": "coinmod:block/mesa_cambio_right"
+  }
+}

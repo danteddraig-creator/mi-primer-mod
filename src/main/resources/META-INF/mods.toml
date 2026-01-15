@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+
+[[mods]]
+modId="coinmod"
+version="1.0.0"
+displayName="coin mod"
+authors="Dante"
+description='''
+Mod de moneda medieval reutilizable para cualquier modpack.
+'''
